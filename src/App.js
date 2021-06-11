@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import { Button } from '@material-ui/core';
 import NavBar from './components/NavBar'
 import Categories from './components/Categories';
 import ImageTab from './components/ImageTab';
 import Footer from './components/Footer';
 
 function App() {
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
   return (
     <div>
       <NavBar />
