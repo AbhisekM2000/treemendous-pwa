@@ -1,6 +1,6 @@
 # treemendous-pwa
 
-#Steps
+# Steps
 1. use "git clone https://github.com/AbhisekM2000/treemendous-pwa.git " to clone the repository / download the zip file to download the file manually.
 2. Go to the working directory.
 3. Open up the terminal.
