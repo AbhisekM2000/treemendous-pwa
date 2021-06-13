@@ -2,6 +2,7 @@ import React from 'react'
 import Typography from '@material-ui/core/Typography';
 import { fade, makeStyles } from '@material-ui/core/styles';
 
+
 const useStyles = makeStyles((theme) =>({
     title: {
         flexGrow: 1,
@@ -11,7 +12,6 @@ const useStyles = makeStyles((theme) =>({
       }
 }));
 
-
 function Categories() {
     const classes=useStyles();
     return (
@@ -20,7 +20,6 @@ function Categories() {
             <Typography className={classes.title} variant="h4" noWrap style={{fontWeight:"bold",color:"#525054"}}>
                 Categories
             </Typography>
-
         </div>
     )
 }
